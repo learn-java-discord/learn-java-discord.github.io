@@ -7,6 +7,9 @@ p {
 	line-height: 170%;
 }
 
+#menu-items {
+    font-weight: bold;
+}
  /* Toggle Styles */
 
 #wrapper {
@@ -29,7 +32,7 @@ p {
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #fa920b;
+    background: #ED8B00;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
